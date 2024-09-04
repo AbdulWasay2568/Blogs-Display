@@ -30,6 +30,6 @@ npm start
 
 ## Technologies Used
 
-**React:** A JavaScript library for building user interfaces.
-**TypeScript:** A statically typed superset of JavaScript.
-**Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
+- **React:** A JavaScript library for building user interfaces.
+- **TypeScript:** A statically typed superset of JavaScript.
+- **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
